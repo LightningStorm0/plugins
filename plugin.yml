@@ -1,0 +1,6 @@
+main: com.jennings.rpgsystem.Main
+name: RPGSystem
+version: 1.0
+api-version: 1.15
+author: Warren Jennings
+description: A plugin that adds special items that add perks with classes
